@@ -10,4 +10,4 @@ Please use the following command after having pulled the files:
 
 ## Notebook
 
-You can use VScode or any IDE that supports Jupyter notebook to read the file
+You can use VScode or any IDE that supports Jupyter notebooks to read the file
